@@ -23,7 +23,6 @@
     "start": "react-scripts start",
     "stop": "taskkill -F -IM node.exe",
     "predeploy": "npm run build",
-    "deploy": "aws s3 sync build/ s3://coffee.joshnassif.com",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
