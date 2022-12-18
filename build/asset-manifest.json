@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ohmygoodieness/static/css/main.f759247e.chunk.css",
+    "main.js": "/ohmygoodieness/static/js/main.d01fb1e8.chunk.js",
+    "main.js.map": "/ohmygoodieness/static/js/main.d01fb1e8.chunk.js.map",
+    "runtime-main.js": "/ohmygoodieness/static/js/runtime-main.3a5701ad.js",
+    "runtime-main.js.map": "/ohmygoodieness/static/js/runtime-main.3a5701ad.js.map",
+    "static/css/2.0624914a.chunk.css": "/ohmygoodieness/static/css/2.0624914a.chunk.css",
+    "static/js/2.e8fd23a9.chunk.js": "/ohmygoodieness/static/js/2.e8fd23a9.chunk.js",
+    "static/js/2.e8fd23a9.chunk.js.map": "/ohmygoodieness/static/js/2.e8fd23a9.chunk.js.map",
+    "index.html": "/ohmygoodieness/index.html",
+    "precache-manifest.61415d9fa93e2b35a2ee62be0a56e794.js": "/ohmygoodieness/precache-manifest.61415d9fa93e2b35a2ee62be0a56e794.js",
+    "service-worker.js": "/ohmygoodieness/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/ohmygoodieness/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.f759247e.chunk.css.map": "/ohmygoodieness/static/css/main.f759247e.chunk.css.map",
+    "static/media/IMG_4349.jpg": "/ohmygoodieness/static/media/IMG_4349.bca33830.jpg",
+    "static/media/IMG_4350.jpg": "/ohmygoodieness/static/media/IMG_4350.7ab1f2bb.jpg",
+    "static/media/IMG_4351.jpg": "/ohmygoodieness/static/media/IMG_4351.daa50e5a.jpg",
+    "static/media/IMG_4352.jpg": "/ohmygoodieness/static/media/IMG_4352.b57c33aa.jpg",
+    "static/media/IMG_4353.jpg": "/ohmygoodieness/static/media/IMG_4353.ba9b0efe.jpg",
+    "static/media/IMG_4354.jpg": "/ohmygoodieness/static/media/IMG_4354.8280955e.jpg",
+    "static/media/intro.css": "/ohmygoodieness/static/media/background.7c1d2672.jpg",
+    "static/media/about.css": "/ohmygoodieness/static/media/background2.ac1ced33.jpg"
+  }
+}
