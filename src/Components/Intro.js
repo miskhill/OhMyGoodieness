@@ -12,7 +12,7 @@ export class Intro extends Component {
           <div className="flex-fill align-self-center">
           <div className="container text-center">
               <h3 className="display-4" id="introText">Welcome to</h3>
-              <h1 className="display-1" id="introText">OH MY Goodieness!</h1>
+              <h3 className="display-1" id="introText">OH MY Goodieness!</h3>
               <img src={menu4} className="rounded-circle img-fluid" id="introIMG"/>
             </div>
           </div>
